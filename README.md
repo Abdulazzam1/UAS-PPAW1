@@ -14,6 +14,8 @@ Code ini disusun dengan CSS,ejs dan js. Berhasil dihubungkan  dengan mongodb. Se
    Tampilan update user(update)
    ![image](https://github.com/Abdulazzam1/UAS-PPAW1/assets/139703891/8c920849-26ac-47fe-bce3-2cf287478cd8)
 
+   (Untuk delete tinggal klik silang ditampilan utama)
+
 
    
 
